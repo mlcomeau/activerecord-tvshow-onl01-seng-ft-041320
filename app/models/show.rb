@@ -27,6 +27,4 @@ class Show < ActiveRecord::Base
     Show.order(name: :asc)
   end
 
-
-
 end
