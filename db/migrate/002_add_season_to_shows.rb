@@ -1,3 +1,3 @@
 class AddSeasonToShow < ActiveRecord::Migration
-  def change 
+  def change
   end 
